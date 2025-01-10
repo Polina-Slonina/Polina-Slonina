@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Polina-Slonina, I live in Moscow.
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning web development.
 - 📫Contacts: @polinaslon
 
