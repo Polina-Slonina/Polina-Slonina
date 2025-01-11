@@ -20,10 +20,9 @@
 </p>
 
 <h2>My stats</h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina-Slonina&theme=radical&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
-<div>
-  ![Codewars](https://github.r2v.ch/codewars?user=Polina-Slonina)
-</div>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Polina-Slonina&theme=radical&exclude_days=Sun%2CMon"/>
+<img src="https://github.r2v.ch/codewars?user=Polina-Slonina"/>
+
 <!---
 Polina-Slonina/Polina-Slonina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
