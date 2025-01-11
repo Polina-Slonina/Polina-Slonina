@@ -18,11 +18,13 @@
    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>
 </p>
-
+<!---
 <h2>My stats</h2>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Polina-Slonina&theme=radical&exclude_days=Sun%2CMon"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina-Slonina&theme=radical&exclude_days=Sun%2CMon)](https://git.io/streak-stats) --->
+<!---
+![Codewars](https://github.r2v.ch/codewars?user=Polina-Slonina)
 <img src="https://github.r2v.ch/codewars?user=Polina-Slonina"/>
-
+--->
 <!---
 Polina-Slonina/Polina-Slonina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
