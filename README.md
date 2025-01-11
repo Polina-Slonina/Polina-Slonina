@@ -2,7 +2,7 @@
   <img width="150px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRlMnVpMjRxbzR0ZTB2ZjNlb2V1ZW94Z2szMncxaWl2Z3oxM25nNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SUcApSWjPwQMARvcM8/giphy.gif"/>
 </div>
 
-- <img width="20px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtlaDJnY3FzbzZqcWV3NmdneGZtbXpoNnpmd3gwd3ByNXI1eDhoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"/>👋 Hi, I’m frontend developer from Moscow.
+- <img width="20px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtlaDJnY3FzbzZqcWV3NmdneGZtbXpoNnpmd3gwd3ByNXI1eDhoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"/> Hi, I’m frontend developer from Moscow.
 
 - 📲Telegram: @polinaslon
 
@@ -20,7 +20,10 @@
 </p>
 
 <h2>My stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Polina-Slonina&theme=radical" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina-Slonina&theme=radical&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
+<div>
+  ![Codewars](https://github.r2v.ch/codewars?user=Polina-Slonina)
+</div>
 <!---
 Polina-Slonina/Polina-Slonina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
