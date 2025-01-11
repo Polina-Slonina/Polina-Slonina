@@ -18,8 +18,12 @@
    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
    <img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>
 </p>
+
+
+
 <!---
 <h2>My stats</h2>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina-Slonina&theme=radical)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Polina-Slonina&theme=radical&exclude_days=Sun%2CMon)](https://git.io/streak-stats) --->
 <!---
 ![Codewars](https://github.r2v.ch/codewars?user=Polina-Slonina)
