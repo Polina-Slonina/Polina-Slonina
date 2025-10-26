@@ -4,7 +4,7 @@
 
 - <img width="20px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtlaDJnY3FzbzZqcWV3NmdneGZtbXpoNnpmd3gwd3ByNXI1eDhoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif"/> Hi, I’m frontend developer from Moscow.
 
-- 📲Telegram: @polinaslon
+- 📲Telegram: @LittleDragon777
 
 ![](https://komarev.com/ghpvc/?username=Polina-Slonina&color=blueviolet&style=plastic)
 
